@@ -1,0 +1,2 @@
+# K590S-i7-D1-HACKINTOSH
+efi 文件
