@@ -2,7 +2,7 @@
 
 2012年11月买的，当时7000多
 
-本项目是 efi 文件目录
+本项目是 efi 文件目录，能引导10.15
 
 神舟精盾 K590S-I7 D1 http://detail.zol.com.cn/notebook/index339968.shtml
 
