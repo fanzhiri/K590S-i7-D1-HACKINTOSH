@@ -6,6 +6,8 @@
 
 神舟精盾 K590S-I7 D1 http://detail.zol.com.cn/notebook/index339968.shtml
 
+CPU型号	Intel 酷睿i7 3630QM
+
 屏幕分辨率:1366x768
 
 独立显卡:NVIDIA GeForce GTX 660M
